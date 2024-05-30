@@ -1,0 +1,9 @@
+/out
+manifest-client.txt
+manifest-server.txt
+my-redis-client.jar
+my-redis-server.jar
+.DS_Store
+.idea/
+
+#lib/*.jar
